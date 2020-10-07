@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "name": "梨",
+      "price": "8",
+      "imgsrc": "img/2.jpg",
+      "id": 2
+    }
+  ]
+}
